@@ -1,0 +1,15 @@
+.card-iteam{
+    border: 0;
+}
+.card-iteam-footer{
+    background-color: white;
+    border: 0;
+}
+.tegegorice img{
+    width: 110px;
+    border-radius: 2em;
+}
+.silde-background{
+    background-color: #FCEAE8;
+    border-radius: 2em;
+}
